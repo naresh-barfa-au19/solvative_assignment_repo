@@ -1,0 +1,27 @@
+.results-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+  }
+  
+  .results-table th,
+  .results-table td {
+    padding: 8px;
+    border: 1px solid rgb(222, 226, 230);
+    text-align: left;
+  }
+  
+  .results-table th {
+    font-weight: 700;
+  }
+  
+  .table-message {
+    padding: 20px;
+    text-align: center;
+    color: #666;
+  }
+  
+  .results-table img {
+    margin-right: 8px;
+    vertical-align: middle;
+  }
